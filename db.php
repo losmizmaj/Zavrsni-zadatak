@@ -31,6 +31,10 @@
     // punimo promenjivu sa rezultatom upita
     $posts = $statement->fetchAll();
 
-    
+   
 
 ?>
+
+
+
+<!-- prebaci sql upit u singl post,  Select * fropm comment where post.id = GET ID[]; -->
